@@ -1,4 +1,4 @@
-# Distracted-Driver-MultiAction-ClassificationPage-Not-completed-Project-4-Distracted-Driver-MultiA
+# Project 4 Distracted-Driver-MultiAction-ClassificationPage
 
 1. You need to classify images into these 10 classes 
 
